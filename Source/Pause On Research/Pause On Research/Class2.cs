@@ -20,7 +20,7 @@ namespace Pause_On_Research
         {
             if (ResearchStart.IsDown)
             {
-                SoundDefOf.HissJet.PlayOneShotOnCamera();
+                SoundDefOf.ResearchStart.PlayOneShotOnCamera();
             }
         }
     }
