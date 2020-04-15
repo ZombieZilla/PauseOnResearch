@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Pause On Research</name>
+	<author>ZombieZilla</author>
+	<packageId>zilla.pauseonresearch</packageId>
+	<description></description>
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions> 
+</ModMetaData>
