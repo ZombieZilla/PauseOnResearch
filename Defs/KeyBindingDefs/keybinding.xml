@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+    <KeyBindingDef ParentName="GameKeyBinding">
+        <defName>Dostuff</defName>
+        <label>needed?</label>
+        <defaultKeyCodeA>Keypad5</defaultKeyCodeA>
+    </KeyBindingDef>
+</Defs>

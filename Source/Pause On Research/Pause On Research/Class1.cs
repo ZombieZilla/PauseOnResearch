@@ -1,12 +1,19 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using RimWorld;
+using Verse;
+using Verse.Sound;
 
 namespace Pause_On_Research
 {
-    public class Class1
+//lets understand what I am trying to achieve here
+// I want the game to pause once research has finished
+// right now I want the game to play a sound when I press a button
+    [StaticConstructorOnStartup]
+    public static class getworking
     {
+        static getworking()
+        {
+            Log.Message("test");
+        }
     }
 }
