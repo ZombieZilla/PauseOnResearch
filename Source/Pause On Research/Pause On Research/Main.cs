@@ -12,7 +12,6 @@ namespace Pause_On_Research
         {
             var harmony = new Harmony("com.zilla.pauseonresearch");
             harmony.PatchAll(Assembly.GetExecutingAssembly());
-            Log.Message("launching with logspam™️");
         }
     }
 
